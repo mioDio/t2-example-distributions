@@ -2,7 +2,7 @@
 
 Synthetic distributions
 
-![example T2 distribution](img/gaussian_mixture.png | width=100)
+<img src="img/gaussian_mixture.png" alt="alt text" width="500">
 
 This projects contains a collection of synthetic T2 relaxation spectra. 
 By proividing the python code, I hope people can use it for modeling and inversion.
